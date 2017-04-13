@@ -21,7 +21,7 @@
     </header>
     <div id="content">
     <div id="demo">
-            <button type="button" onclick="loadDoc()">Change Content</button>
+            <button type="button" onclick="loadDoc()">Поменять</button>
         </div>
         <script>
         /*function loadDoc() {
